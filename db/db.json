@@ -1,0 +1,115 @@
+{
+  "Brazil": [
+    {
+      "cep": "01001-000",
+      "logradouro": "Praça da Sé",
+      "complemento": "lado ímpar",
+      "bairro": "Sé",
+      "localidade": "São Paulo",
+      "uf": "SP",
+      "ibge": "3550308",
+      "ddd": "11",
+      "siafi": "7107"
+    },
+
+    {
+      "cep": "11666-751",
+      "logradouro": "Avenida Manoel Viana",
+      "complemento": "(Jardim Saveiros)",
+      "bairro": "Praia das Palmeiras",
+      "localidade": "Caraguatatuba",
+      "uf": "SP",
+      "ibge": "3510500",
+      "ddd": "12",
+      "siafi": "6311"
+    },
+    {
+      "cep": "83602-762",
+      "logradouro": "Rua João Bonato",
+      "complemento": "",
+      "bairro": "Jardim Céu Azul",
+      "localidade": "Campo Largo",
+      "uf": "PR",
+      "ibge": "4104204",
+      "ddd": "41",
+      "siafi": "7481"
+    },
+    {
+      "cep": "83324-370",
+      "logradouro": "Rua Paranacity",
+      "complemento": "",
+      "bairro": "Emiliano Perneta",
+      "localidade": "Pinhais",
+      "uf": "PR",
+      "ibge": "4119152",
+      "ddd": "41",
+      "siafi": "5453"
+    },
+    {
+      "cep": "75054-535",
+      "logradouro": "Rua 3",
+      "complemento": "",
+      "bairro": "Residencial Dom Felipe",
+      "localidade": "Anápolis",
+      "uf": "GO",
+      "ibge": "5201108",
+      "ddd": "62",
+      "siafi": "9221"
+    },
+    {
+      "cep": "57075-470",
+      "logradouro": "Rua Santa Isabel",
+      "complemento": "",
+      "bairro": "Santos Dumont",
+      "localidade": "Maceió",
+      "uf": "AL",
+      "ibge": "2704302",
+      "ddd": "82",
+      "siafi": "2785"
+    },
+    {
+      "cep": "88809-360",
+      "logradouro": "Rua Lages",
+      "complemento": "",
+      "bairro": "Santo Antônio",
+      "localidade": "Criciúma",
+      "uf": "SC",
+      "ibge": "4204608",
+      "ddd": "48",
+      "siafi": "8089"
+    },
+    {
+      "cep": "88135-605",
+      "logradouro": "Rua Santa Rita",
+      "complemento": "",
+      "bairro": "Aririu",
+      "localidade": "Palhoça",
+      "uf": "SC",
+      "ibge": "4211900",
+      "ddd": "48",
+      "siafi": "8233"
+    },
+    {
+      "cep": "95058-315",
+      "logradouro": "Rua Virisio Rodrigues de Ramos",
+      "complemento": "",
+      "bairro": "São Cristóvão",
+      "localidade": "Caxias do Sul",
+      "uf": "RS",
+      "ibge": "4305108",
+      "ddd": "54",
+      "siafi": "8599"
+    },
+    {
+      "cep": "17605-229",
+      "logradouro": "Rua Belém",
+      "complemento": "",
+      "bairro": "Vila Vargas",
+      "localidade": "Tupã",
+      "uf": "SP",
+      "ibge": "3555000",
+      "ddd": "14",
+      "siafi": "7201"
+    }
+  ]
+}
